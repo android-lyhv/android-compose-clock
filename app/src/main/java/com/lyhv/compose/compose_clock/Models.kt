@@ -2,7 +2,7 @@ package com.lyhv.compose.compose_clock
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.Dp
-import java.util.Random
+import java.util.*
 
 /**
  * @author Adib Faramarzi (adibfara@gmail.com)
@@ -29,9 +29,9 @@ enum class ColorPalette(
             Color(0xFFFECEA8),
             Color(0xFFFF847C)
         ),
-        Color(0xFFE84A5F),
-        Color(0x39E84A5F),
-        Color(0x41E84A5F),
+        Color(0xFFCE93D8),
+        Color(0xFF8F24AA),
+        Color(0xFF7B1FA1),
         Color(0xff2A363B)
     ),
 }
